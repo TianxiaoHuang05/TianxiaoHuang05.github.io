@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinwei Liu"
+title                    : "Tianxiao Huang"
 description              : "Junior student in Cyber Security, Wuhan University"
-repository               : "julia630555/julia630555.github.io"
+repository               : "TianxiaoHuang05/TianxiaoHuang05.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinwei Liu"
+  name             : "Tianxiao Huang"
   avatar           : "images/My_Self.jpg"
-  bio              : "2023302181110@whu.edu.cn"
+  bio              : "tianxiaohuang@whu.edu.cn"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "2023302181110@whu.edu.cn"
+  email            : "tianxiaohuang@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "julia630555"
+  github           : "TianxiaoHuang05"
   google_plus      :
   keybase          :
   instagram        :

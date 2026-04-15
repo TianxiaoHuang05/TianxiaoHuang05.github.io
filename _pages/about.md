@@ -8,74 +8,85 @@ redirect_from:
   - /about.html
 ---
 
-
 <span class='anchor' id='about-me'></span>
 
-I am **Xinwei Liu**, a junior undergraduate student majoring in **Cyber Security** at **Wuhan University**. My current GPA is **3.94/4.0**, ranking **1st** in my major.
+I am **Tianxiao Huang**, a junior undergraduate student majoring in **Cyber Science and Engineering (Honors Class)** at **Wuhan University**. My current GPA is **3.84/4.0**, ranking **4th/20** in my major. 
 
-My research interests include **large language model security**, **adversarial robustness of diffusion watermarks**, and **backdoor attacks on graph-LLMs**.
-
-
+My research interests include **AI Security**, **Large Language Models (LLMs)**,  and **Multimodal LLMs**. Currently, I am conducting research at the NIS&P Lab, Wuhan University, supervised by Prof. Qian Wang. 
 
 # 🔥 News
-- *2026.01*: &nbsp;📝📝 Our paper “Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy” is currently under review.
-- *2025.10*: &nbsp;🏅🏅 Honored to receive the **National Scholarship for Undergraduate Students**, the Wuhan University First-Class Scholarship, and the title of Merit Student.
-- *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the National College Student Artificial Intelligence Security Competition.
-- *2024.11*: &nbsp;🏅🏅 Honored to receive the Huang Zhangren Scholarship, the Wuhan University First-Class Scholarship, and the title of Merit Student.
+- *2026.04*: &nbsp;📝📝 Our paper on **Asymmetric Entropic Optimization(AEO)** is currently under review at **ICML 2026** .
+- *2026.04*: &nbsp;📝📝 Our paper **VOID** is under review at **USENIX Security 2026** (Passed the 1st round of review).
+- *2026.04*: &nbsp;📝📝 Our paper on **Energy-Driven Latent Conflict Detection** is under review at **IJCAI**.
+- *2025.10*: &nbsp;🏅🏅 Honored to receive the **National Scholarship** (Top 0.3% nationwide) and Wuhan University First-Class Scholarship.
+- *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the 1st National AI Security Competition as the **Team Leader**.
+- *2025.08*: &nbsp;✈️✈️ Attended the **13th University Scholars Leadership Symposium (USLS)** in Kuala Lumpur, Malaysia.
+- *2025.07*: &nbsp;✈️✈️ Participated in the **AI Summer Program** at the **National University of Singapore (NUS)**.
+- *2024.01*: &nbsp;✈️✈️ Participated in the **AI Winter Program** at the **University of Cambridge**.
 
 # 📝 Publications
 
-<div style="border:1px solid #e5e7eb; border-radius:24px; padding:20px 24px; margin:20px 0; display:flex; align-items:center; justify-content:space-between; gap:26px; background:#fff;">
-
-  <div style="flex:1; min-width:0;">
-    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#123b7a 0%, #e88900 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
-      Under Review
-    </div>
-
-    <div style="font-size:20px; font-weight:800; line-height:1.35; color:#1f2937; margin-bottom:12px;">
-      Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy
-    </div>
-
-    <div style="font-size:16px; line-height:1.5; color:#374151; margin-bottom:10px;">
-      Tianxiao Huang, <strong>Xinwei Liu</strong>, <em>et al.</em>
-    </div>
-
-    <div style="font-size:15px; font-style:italic; color:#6b7280;">
-      Under Review
-    </div>
+<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+  <div style="flex:1;">
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#123b7a,#4267b2); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ ICML 2026</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy</div>
+    <div style="margin:8px 0; color:#374151;"><strong>Tianxiao Huang</strong>, <em>et al.</em></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Focuses on the "asymmetric logic" in latent representations to mitigate instruction injection attacks.</em></div>
   </div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/paper1.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
+</div>
 
-  <div style="width:260px; height:150px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#fff; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08); overflow:hidden; padding:8px;">
-    <img src="/images/aeo.png" alt="paper" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;">
+<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+  <div style="flex:1;">
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#e88900,#ffb347); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ USENIX Security 2026</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models</div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Passed Round 1. Proposes a semantic destruction framework to protect artistic styles in LDMs.</em></div>
   </div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/paper2.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
+</div>
 
+<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+  <div style="flex:1;">
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#22c55e,#86efac); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ IJCAI</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">Combating Instruction Conflict via Energy-Driven Latent Conflict Detection</div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Detects response drift using energy-based models on deep latent features.</em></div>
+  </div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/paper3.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
 # 🎖 Honors and Awards
-- *2024.11* **First-Class Scholarship**, Wuhan University
-- *2024.11* **Huang Zhangren Scholarship**, Wuhan University
-- *2024.12* **Hubei First Prize**, Chinese Mathematics Competition (CMC)
-- *2025.06* **Second Prize**, China University Computer Design Competition (Central South Regional Contest)
-- *2025.08* **First Prize**, National College Student Artificial Intelligence Security Competition
-- *2025.12* **First-Class Scholarship**, Wuhan University
-- *2025.12* **National Scholarship for Undergraduate Students**, Ministry of Education of China
+- *2025.10* **National Scholarship** (Top 0.3% nationwide) (2024-2025), Ministry of Education of China
+- *2025.10* **First-Class Scholarship**, Wuhan University
+- *2025.08* **First Prize**, 1st National College Student Artificial Intelligence Security Competition *(Team Leader)*
+- *2025.08* **First Prize**, 27th China Robotics & AI Competition (National Final)
+- *2025.05* **Second Prize**, 16th Lanqiao Cup AI Project National Selection
+- *2025.05* **First Prize**, "SFLEP Cup" Cross-Cultural Communication Contest (Wuhan Univ.)
 
-# 📖 Educations
+# 📖 Education
 
 <div style="display:flex; align-items:center; gap:36px; margin:18px 0 8px 0;">
-
   <div style="flex:0 0 620px; min-width:0;">
     <div style="font-size:18px; font-weight:700; color:#374151; margin-bottom:8px;">
-      2023.09 - Now
+      2023.09 - Present
     </div>
-
     <div style="font-size:17px; line-height:1.6; color:#374151;">
-      Undergraduate, Cyber Security, Wuhan University
+      B.Eng. in Cyber Science and Engineering (Honors Class)<br>
+      <strong>Wuhan University</strong><br>
+      <em>GPA: 3.84/4.0 (Rank: 4/20)</em>
     </div>
   </div>
-
   <div style="width:180px; flex-shrink:0; display:flex; justify-content:flex-start;">
     <img src="/images/whu_logo.png" alt="Wuhan University Logo" style="width:150px; height:150px; object-fit:contain;">
   </div>
-
 </div>
+
+# 🌟 Exchange & Extracurricular
+- *2025.08* **13th University Scholars Leadership Symposium (USLS)** in Kuala Lumpur, Malaysia, hosted by Humanitarian Affairs Asia.
+- *2025.07* **Short-term AI Program** at the National University of Singapore (NUS).
+- *2024.01* **AI Winter Program** at the University of Cambridge.
+
+# 💻 Skills
+- **English:** CET-6 (679, Top 1%), CET-4 (672). Excellent reading, writing, and cross-cultural communication skills.
+- **Programming:** CSP Certification (230 points, Top 11.17%). Proficient in AI model deployment and deep learning frameworks.

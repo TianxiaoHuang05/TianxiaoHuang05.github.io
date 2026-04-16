@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianxiao Huang"
-  avatar           : "images/life_photo.jpg"
+  avatar           : "images/life_photo.png"
   # avatar           : "images/My_Self.jpg"
   bio              : "tianxiaohuang@whu.edu.cn"
   location         : "Wuhan, China"

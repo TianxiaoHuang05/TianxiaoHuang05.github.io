@@ -48,7 +48,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
     <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#22c55e,#86efac); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ IJCAI</div>
-    <div style="font-size:18px; font-weight:800; color:#1f2937;">Combating Instruction Conflict via Energy-Driven Latent Conflict Detection</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">Passed Round 1. Combating Instruction Conflict via Energy-Driven Latent Conflict Detection</div>
     <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
     <div style="font-size:14px; color:#6b7280;"><em>Detects response drift using energy-based models on deep latent features.</em></div>
   </div>

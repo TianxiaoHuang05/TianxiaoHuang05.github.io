@@ -22,7 +22,6 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 - *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the 1st National AI Security Competition as the **Team Leader**.
 - *2025.08*: &nbsp;✈️✈️ Attended the **13th University Scholars Leadership Symposium (USLS)** in Kuala Lumpur, Malaysia.
 - *2025.07*: &nbsp;✈️✈️ Participated in the **AI Summer Program** at the **National University of Singapore (NUS)**.
-- *2024.01*: &nbsp;✈️✈️ Participated in the **AI Winter Program** at the **University of Cambridge**.
 
 # 📝 Publications
 
@@ -54,6 +53,16 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
     <div style="font-size:14px; color:#6b7280;"><em>Detects response drift using energy-based models on deep latent features.</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper3.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+  <div style="flex:1;">
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#7e22ce,#a855f7); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ ICML 2026</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">SPEAR: Piercing the Stealthy Veil of Backdoor Attacks in Vision-Language Models via Energy-Driven Analysis</div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Proposes SPEAR, an energy-driven defense framework to detect and mitigate stealthy backdoor attacks in Vision-Language Models (VLMs).</em></div>
+  </div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/paper4.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
 # 🎖 Honors and Awards

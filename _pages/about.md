@@ -28,6 +28,17 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#be123c,#f43f5e); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">🎉 Accepted @ USENIX Security 2026</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models</div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Third Author</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Proposes a semantic destruction framework to protect artistic styles and identities in latent diffusion models.</em></div>
+  </div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/paper2.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
+</div>
+
+
+<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+  <div style="flex:1;">
     <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#123b7a,#4267b2); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ NeurIPS 2026 (from ICML, avg. 3.5)</div>
     <div style="font-size:18px; font-weight:800; color:#1f2937;">Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy</div>
     <div style="margin:8px 0; color:#374151;"><strong>Tianxiao Huang</strong>, <em>et al.</em> &nbsp;·&nbsp; <strong>First Author</strong></div>
@@ -36,15 +47,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper1.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
-  <div style="flex:1;">
-    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#be123c,#f43f5e); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">🎉 Accepted @ USENIX Security 2026</div>
-    <div style="font-size:18px; font-weight:800; color:#1f2937;">VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models</div>
-    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Third Author</strong></div>
-    <div style="font-size:14px; color:#6b7280;"><em>Proposes a semantic destruction framework to protect artistic styles and identities in latent diffusion models.</em></div>
-  </div>
-  <div style="width:200px; flex-shrink:0;"><img src="/images/paper2.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
-</div>
+
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">

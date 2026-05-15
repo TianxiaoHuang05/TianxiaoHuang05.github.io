@@ -76,7 +76,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper4.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.10* **National Scholarship** (Top 0.3% nationwide) (2024-2025), Ministry of Education of China
 - *2025.10* **First-Class Scholarship**, Wuhan University
 - *2025.08* **First Prize**, 1st National College Student Artificial Intelligence Security Competition *(Team Leader)*

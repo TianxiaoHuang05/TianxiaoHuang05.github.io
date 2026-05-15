@@ -15,9 +15,10 @@ I am **Tianxiao Huang**, a junior undergraduate student majoring in **Cyber Scie
 My research interests include **AI Security**, **Large Language Models (LLMs)**,  and **Multimodal LLMs**. Currently, I am conducting research at the NIS&P Lab, Wuhan University, supervised by Prof. Qian Wang. 
 
 # 🔥 News
-- *2026.04*: &nbsp;📝📝 Our paper on **Asymmetric Entropic Optimization(AEO)** is currently under review at **ICML 2026** .
-- *2026.04*: &nbsp;📝📝 Our paper **VOID** is under review at **USENIX Security 2026** (Passed the 1st round of review).
-- *2026.04*: &nbsp;📝📝 Our paper on **Energy-Driven Latent Conflict Detection** is under review at **IJCAI**.
+- *2026.05*: &nbsp;🎉🎉 Our paper **VOID** has been **accepted by USENIX Security 2026**!
+- *2026.05*: &nbsp;📝📝 Our paper **AEO** and **SPEAR** have been resubmitted to **NeurIPS 2026** after major revision (from ICML 2026, avg. score 3.5).
+- *2026.05*: &nbsp;📝📝 Our paper **MagicGuard** is currently under review at **NeurIPS 2026**.
+- *2026.05*: &nbsp;📝📝 Our paper on **Energy-Driven Latent Conflict Detection (ELCD)** is under major revision, targeting **EMNLP 2026** (from IJCAI, avg. score 5).
 - *2025.10*: &nbsp;🏅🏅 Honored to receive the **National Scholarship** (Top 0.3% nationwide) and Wuhan University First-Class Scholarship.
 - *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the 1st National AI Security Competition as the **Team Leader**.
 - *2025.08*: &nbsp;✈️✈️ Attended the **13th University Scholars Leadership Symposium (USLS)** in Kuala Lumpur, Malaysia.

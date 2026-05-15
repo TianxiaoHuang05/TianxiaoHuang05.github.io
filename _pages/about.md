@@ -27,9 +27,9 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
-    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#123b7a,#4267b2); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ ICML 2026</div>
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#123b7a,#4267b2); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ NeurIPS 2026 (from ICML, avg. 3.5)</div>
     <div style="font-size:18px; font-weight:800; color:#1f2937;">Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy</div>
-    <div style="margin:8px 0; color:#374151;"><strong>Tianxiao Huang</strong>, <em>et al.</em></div>
+    <div style="margin:8px 0; color:#374151;"><strong>Tianxiao Huang</strong>, <em>et al.</em> &nbsp;·&nbsp; <strong>First Author</strong></div>
     <div style="font-size:14px; color:#6b7280;"><em>Focuses on the "asymmetric logic" in latent representations to mitigate instruction injection attacks.</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper1.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
@@ -37,29 +37,39 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
-    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#e88900,#ffb347); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ USENIX Security 2026</div>
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#be123c,#f43f5e); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">🎉 Accepted @ USENIX Security 2026</div>
     <div style="font-size:18px; font-weight:800; color:#1f2937;">VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models</div>
-    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
-    <div style="font-size:14px; color:#6b7280;"><em>Passed Round 1. Proposes a semantic destruction framework to protect artistic styles in LDMs.</em></div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Third Author</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Proposes a semantic destruction framework to protect artistic styles and identities in latent diffusion models.</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper2.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
-    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#22c55e,#86efac); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ IJCAI</div>
-    <div style="font-size:18px; font-weight:800; color:#1f2937;">Passed Round 1. Combating Instruction Conflict via Energy-Driven Latent Conflict Detection</div>
-    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
-    <div style="font-size:14px; color:#6b7280;"><em>Detects response drift using energy-based models on deep latent features.</em></div>
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#0369a1,#38bdf8); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ NeurIPS 2026</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">MagicGuard: A Unified Self-Destructing Defense Paradigm Against Malicious Fine-Tuning of Pre-Trained Models</div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Co-First Author</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Proposes MagicGuard, a model- and task-agnostic self-destructing defense against malicious fine-tuning of pre-trained models.</em></div>
+  </div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/paper_magicguard.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+  <div style="flex:1;">
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#d97706,#fbbf24); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ EMNLP 2026 (from IJCAI, avg. 5)</div>
+    <div style="font-size:18px; font-weight:800; color:#1f2937;">Combating Instruction Conflict via Energy-Driven Latent Conflict Detection</div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Co-First Author</strong></div>
+    <div style="font-size:14px; color:#6b7280;"><em>Detects response drift using energy-based models on deep latent features of large language models.</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper3.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
-    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#7e22ce,#a855f7); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ ICML 2026</div>
+    <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#7e22ce,#a855f7); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review @ NeurIPS 2026 (from ICML, avg. 3.5)</div>
     <div style="font-size:18px; font-weight:800; color:#1f2937;">SPEAR: Piercing the Stealthy Veil of Backdoor Attacks in Vision-Language Models via Energy-Driven Analysis</div>
-    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong></div>
+    <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Third Author</strong></div>
     <div style="font-size:14px; color:#6b7280;"><em>Proposes SPEAR, an energy-driven defense framework to detect and mitigate stealthy backdoor attacks in Vision-Language Models (VLMs).</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper4.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>

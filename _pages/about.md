@@ -53,7 +53,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
     <div style="margin:8px 0; color:#374151;">Co-authors including <strong>Tianxiao Huang</strong> &nbsp;·&nbsp; <strong>Co-First Author</strong></div>
     <div style="font-size:14px; color:#6b7280;"><em>Proposes MagicGuard, a model- and task-agnostic self-destructing defense against malicious fine-tuning of pre-trained models.</em></div>
   </div>
-  <div style="width:200px; flex-shrink:0;"><img src="/images/paper_magicguard.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
+  <div style="width:200px; flex-shrink:0;"><img src="/images/magicguard.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">

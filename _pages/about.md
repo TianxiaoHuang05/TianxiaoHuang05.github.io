@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Tianxiao Huang**, a junior undergraduate student majoring in **Cyber Science and Engineering (Honors Class)** at **Wuhan University**. My current GPA is **3.84/4.0**, ranking **4th/20** in my major. 
+I am **Tianxiao Huang**, a junior undergraduate student majoring in **Cyber Science and Engineering (Honors Class)** at **Wuhan University**. I hold an overall rank of **1st/20**, with a current GPA of **3.84/4.0** (Academic Rank: 4th/20).
 
 My research interests include **AI Security**, **Large Language Models (LLMs)**,  and **Multimodal LLMs**. Currently, I am conducting research at the NIS&P Lab, Wuhan University, supervised by Prof. Qian Wang. 
 
@@ -24,7 +24,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 - *2025.08*: &nbsp;✈️✈️ Attended the **13th University Scholars Leadership Symposium (USLS)** in Kuala Lumpur, Malaysia.
 - *2025.07*: &nbsp;✈️✈️ Participated in the **AI Summer Program** at the **National University of Singapore (NUS)**.
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
@@ -49,7 +49,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
 
 
 
-<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+<!-- <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
     <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#0369a1,#38bdf8); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review </div>
     <div style="font-size:18px; font-weight:800; color:#1f2937;">MagicGuard: A Unified Self-Destructing Defense Paradigm Against Malicious Fine-Tuning of Pre-Trained Models</div>
@@ -57,7 +57,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
     <div style="font-size:14px; color:#6b7280;"><em>Proposes MagicGuard, a model- and task-agnostic self-destructing defense against malicious fine-tuning of pre-trained models.</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/magicguard.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
-</div>
+</div> -->
 
 <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
@@ -69,7 +69,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper3.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
+<!-- <div style="border:1px solid #e5e7eb; border-radius:20px; padding:20px; margin:20px 0; display:flex; align-items:center; gap:24px; background:#fff;">
   <div style="flex:1;">
     <div style="display:inline-block; padding:4px 12px; border-radius:15px; background:linear-gradient(90deg,#7e22ce,#a855f7); color:#fff; font-size:12px; font-weight:bold; margin-bottom:10px;">Under Review</div>
     <div style="font-size:18px; font-weight:800; color:#1f2937;">SPEAR: Piercing the Stealthy Veil of Backdoor Attacks in Vision-Language Models via Energy-Driven Analysis</div>
@@ -77,7 +77,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
     <div style="font-size:14px; color:#6b7280;"><em>Proposes SPEAR, an energy-driven defense framework to detect and mitigate stealthy backdoor attacks in Vision-Language Models (VLMs).</em></div>
   </div>
   <div style="width:200px; flex-shrink:0;"><img src="/images/paper4.png" style="width:100%; border-radius:12px; border:1px solid #eee;"></div>
-</div>
+</div> -->
 
 # 🏅 Honors and Awards
 - *2025.10* **National Scholarship** (Top 0.3% nationwide) (2024-2025), Ministry of Education of China
@@ -97,7 +97,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
     <div style="font-size:17px; line-height:1.6; color:#374151;">
       B.Eng. in Cyber Science and Engineering (Honors Class)<br>
       <strong>Wuhan University</strong><br>
-      <em>GPA: 3.84/4.0 (Rank: 4/20)</em>
+      <em>GPA: 3.84/4.0 (Rank: 4/20, Overall Rank: 1/20)</em>
     </div>
   </div>
   <div style="width:180px; flex-shrink:0; display:flex; justify-content:flex-start;">

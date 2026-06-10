@@ -97,7 +97,7 @@ My research interests include **AI Security**, **Large Language Models (LLMs)**,
     <div style="font-size:17px; line-height:1.6; color:#374151;">
       B.Eng. in Cyber Science and Engineering (Honors Class)<br>
       <strong>Wuhan University</strong><br>
-      <em>GPA: 3.84/4.0 (Rank: 4/20, Overall Rank: 1/20)</em>
+      <em>GPA: 3.84/4.0 (Overall Rank: 1/20)</em>
     </div>
   </div>
   <div style="width:180px; flex-shrink:0; display:flex; justify-content:flex-start;">
